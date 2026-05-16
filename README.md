@@ -1,1 +1,2 @@
 # weatherapp
+auther - Tejashri Karekar
