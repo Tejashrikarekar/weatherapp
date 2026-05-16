@@ -1,2 +1,2 @@
 # weatherapp
-auther - Tejashri Karekar
+auther - Tejashri 
